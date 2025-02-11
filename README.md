@@ -1,4 +1,4 @@
-# Developed by Ola
+# Developed by Sheriff
 
 ---
 
