@@ -1,4 +1,4 @@
-# Developed by Ola
+# Developed by Seyi
 
 ---
 
@@ -87,11 +87,11 @@ We welcome contributions to the TinDog project! If you have suggestions, bug rep
 For questions or support, please reach out to us through our [GitHub repository](https://github.com/your-username/tindog) or connect with us on social media:
 
 - [Facebook](https://www.facebook.com/)
-- [Instagram](http://www.instagram.com/seakay_it)
+- [Instagram](http://www.instagram.com/)
 - [WhatsApp](https://api.whatsapp.com/send?phone=+14435894882)
 - [Blogger](https://liberbook.wordpress.com)
 - [TikTok](https://tiktok.com/techngineers)
-- [GitHub](https://github.com/TechNgine)
+- [GitHub](https://github.com/sasaolu)
 
 ---
 
